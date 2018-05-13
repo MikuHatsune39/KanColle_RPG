@@ -1,7 +1,7 @@
 // KanColle RPG
 
 /*
-This program was created by Daniel on 2018-03-06
+This program was created by MikuHatsune39 on 2018-03-06
 It is a simple attempt to rewrite a python program in c.
 */
 
